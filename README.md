@@ -1,4 +1,4 @@
-![image](https://github.com/phoenixmad87/phoenix-trading-app/assets/72702312/b7a79a1d-0b81-410c-a014-79c22bb25cad)# phoenix-trading-app
+# phoenix-trading-app
 Trading App with React
 Create an React App using Visual Studio code :
 Open Terminal in VSCode
