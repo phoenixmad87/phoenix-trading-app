@@ -34,6 +34,7 @@ Create ./src/index.css and add below
 @tailwind utilities;
 
 In terminal now run your project using below command 
+
 npm run start
 
 In order to check if Tailwind CSS and React app is working as expected add below code in App.js
