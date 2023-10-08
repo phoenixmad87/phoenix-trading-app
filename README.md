@@ -4,17 +4,19 @@ Create an React App using Visual Studio code :
 Open Terminal in VSCode
 Go to the folder where you want to run the project or create a new GITHUB repo and pull the repo to your local and open the folder in VSCode.
 Execute the command
->>npx create-react-app my-project
->>cd my-project
+npx create-react-app my-project
+cd my-project
 
 React app will get created along with packages required for App development like React and React-DOM
 **NOTE:** DO NOT BE WORRIED about NPX and NPM commands , these are package managers .
 
 **Install Tailwind CSS**
 Inside your project setup Tailwind by using NPM
->>npm install -D tailwindcss
->>npx tailwindcss init
+npm install -D tailwindcss
+npx tailwindcss init
+
 tailwind.config.js will get created where you will add the below to add tailwind CSS to your project
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -25,6 +27,7 @@ module.exports = {
   },
   plugins: [],
 }
+
 Create ./src/index.css and add below
 @tailwind base;
 @tailwind components;
