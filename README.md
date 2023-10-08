@@ -1,6 +1,7 @@
 # phoenix-trading-app
 Trading App with React
 Follow the below link to create React App with Tailwind CSS
+
 https://tailwindcss.com/docs/guides/create-react-app
 
 
