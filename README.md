@@ -46,7 +46,8 @@ export default function App() {
     </h1>
   )
 }
- You should see a page like below in order .
+ 
+ You should see a page like below to confirm Tailwind CSS is working
   ![image](https://github.com/phoenixmad87/phoenix-trading-app/assets/72702312/2734257c-2455-4d1a-8c9c-5c1725057b1e)
 
 **Note:**
